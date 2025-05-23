@@ -26,4 +26,4 @@ I am currently working on my BS in Cybersecurity (expected graduation: July 2025
 </div>
 
 ## Projects
-- Home Lab
+- <a href="https://github.com/emsamlet/Home-Lab/tree/main">Home Lab</a>
