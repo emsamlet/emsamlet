@@ -12,8 +12,8 @@ I am currently working on my BS in Cybersecurity (expected graduation: July 2025
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM and Detection Engineering                | <a>Home Lab</a>            |
-| Networking and Firewall Config                | <a>Home Lab</a>
+| SIEM and Detection Engineering                | <a href="https://github.com/emsamlet/Home-Lab/tree/main">Home Lab</a>            |
+| Networking and Firewall Config                | <a href="https://github.com/emsamlet/Home-Lab/tree/main">Home Lab</a>
 | Azure and Microsoft Defender XDR              | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-82669571-4582-4ad3-ae8a-fe8c7b627800.jpg?v=1744310350000">SC-200 Udemy Course</a>|
 | Python and Bash Scripting                     | <a href="https://app.cybrary.it/profile/EMama2?tab=cert-completion&cert=CC-1e881d3b-09ed-4308-9f94-142c13d39dda">Cybrary</a>|
 
