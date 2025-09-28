@@ -6,7 +6,7 @@ I am an aspiring cybersecurity professional with a strong interest in defensive 
 
 ## Objective
 
-I am just recently gained my B.S. in Cybersecurity while also currently gaining hands-on experience as an ISP help desk technician. I plan to utilize my education and professional experience to transition into a cybersecurity role by the end of 2026. Until then, I will grow my skills in cybersecurity concepts and tools and update my Github portfolio to reflect what I am learning!
+I just recently gained my B.S. in Cybersecurity while also currently gaining hands-on experience as an ISP help desk technician. I plan to utilize my education and professional experience to transition into a cybersecurity role by the end of 2026. Until then, I will grow my skills in cybersecurity concepts and tools and update my Github portfolio to reflect what I am learning!
 
 ## Skills
 
